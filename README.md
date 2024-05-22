@@ -1,6 +1,7 @@
 <div alighn=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=OpenSW_homework&fontSize=80" />
+
 리눅스에서 `top`, `ps`, `jobs`, `kill` 명령어들을 소개하겠습니다. 
 
 ### 목차
